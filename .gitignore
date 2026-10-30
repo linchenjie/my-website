@@ -1,2 +1,8 @@
 desktop-preview.png
 mobile-preview.png
+.env
+.env.*
+!.env.example
+*-test.png
+server.log
+server-error.log
